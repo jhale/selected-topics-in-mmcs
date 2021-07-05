@@ -47,7 +47,7 @@ There are sixteen weekly sessions of an hour and a half.
 * 15/12: Paper 9
 * 22/12: Paper 10
 
-### 
+### Outline
 
 Assuming enough time, each student should be able to pick one paper. All students
 will be expected to read each paper. For each paper, some students will be
@@ -65,16 +65,17 @@ groups with different responsibilities:
   from the paper in a simple programming dynamic language, e.g. Python or
   Matlab.
 * *The Futurists*. Understand the impact of the paper in future academic
-  research and in an industrial context.
+  research and in an industrial context. Discover how the presentation of
+  the key ideas of the paper has evolved in e.g. modern textbooks.
 * *The Critics*. Will ‘critique’ the article in a constructive way, e.g. What
   was clear? What was not clear? Is the information laid out in a good order?
   Are there any omissions?  Are the arguments strong? What could be improved?
 
-A general framework for fulfilling these tasks will be provided during the course.
+A general framework for completing these tasks will be provided during the course.
 
 ### Papers
 
-{% include_relative papers.md %}
+{% include_relative papers.html %}
 
 ### Acknowledgements
 
