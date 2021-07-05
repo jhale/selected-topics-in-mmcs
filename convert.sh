@@ -1,2 +1,3 @@
 #!/bin/bash
-bibtex2html papers.bib
+cat papers.bib | bibtex2html | tail -n +2 > papers.html
+
