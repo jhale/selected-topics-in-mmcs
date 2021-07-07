@@ -67,9 +67,10 @@ groups with different responsibilities:
 * *The Futurists*. Understand the impact of the paper in future academic
   research and in an industrial context. Discover how the presentation of
   the key ideas of the paper has evolved in e.g. modern textbooks.
-* *The Critics*. Will ‘critique’ the article in a constructive way, e.g. What
-  was clear? What was not clear? Is the information laid out in a good order?
-  Are there any omissions?  Are the arguments strong? What could be improved?
+* [Critics]({{ site.baseurl }}{% link roles/critics.md %}). Will ‘critique’ the
+  article in a constructive way, e.g. What was clear? What was not clear? Is
+  the information laid out in a good order?  Are there any omissions?  Are the
+  arguments strong? What could be improved?
 
 A general framework for completing these tasks will be provided during the course.
 
