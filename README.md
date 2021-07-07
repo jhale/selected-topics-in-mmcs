@@ -81,4 +81,4 @@ A general framework for completing these tasks will be provided during the cours
 
 Ideas of Nick Trefethen on running an effective mathematics seminar series
 (https://web.stanford.edu/class/cme324/classics/). Contributions to the paper
-list by Francesco Viti, ...
+list made by Francesco Viti, Stéphane Bordas, Ivan Nourdin and Xavier Besseron.
