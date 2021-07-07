@@ -75,6 +75,8 @@ A general framework for completing these tasks will be provided during the cours
 
 ### Papers
 
+Suggestions from the students are of course welcome!
+
 {% include_relative papers.html %}
 
 ### Acknowledgements
