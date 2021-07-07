@@ -1,9 +1,3 @@
-## Experimentalists
-
-You can re-produce some of the results from the paper using a simple
-dynamic programming language.
-
-```python
 import numpy as np
 
 # NOTE: This code is not particularly 'good'. Can you make some improvements?
@@ -51,4 +45,3 @@ x_0 = np.zeros_like(b)
 x = conjugate_gradient(A, b, x_0)
 print(x)
 assert(np.allclose(x, [1/11, 7/11]))
-```

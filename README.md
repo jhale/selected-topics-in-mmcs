@@ -53,17 +53,16 @@ Assuming enough time, each student should be able to pick one paper. All student
 will be expected to read each paper. For each paper, some students will be
 assigned roles with specific deeper responsibilities.
 
-Based around a single paper each week, the students will be divided into five
-groups with different responsibilities:
+The students will be divided into five groups with different responsibilities:
 
 * *The Historians*. Understand the historical context of the paper; prior
   works, the authors biography, or the general technological/political/cultural
   context of the time.
 * *The Technicians*. Will be responsible for reading the paper with care and
   producing a summary presentation and report of the main results.
-* *The Experimentalists*. If appropriate, will re-produce some of the results
-  from the paper in a simple programming dynamic language, e.g. Python or
-  Matlab.
+* [The Experimentalists]({{ site.baseurl }}{% link roles/experimentalists.md
+  %}). If appropriate, will re-produce some of the results from the paper in a
+  simple dynamic programming language, e.g. Python or MATLAB.
 * *The Futurists*. Understand the impact of the paper in future academic
   research and in an industrial context. Discover how the presentation of
   the key ideas of the paper has evolved in e.g. modern textbooks.
@@ -72,7 +71,8 @@ groups with different responsibilities:
   the information laid out in a good order?  Are there any omissions?  Are the
   arguments strong? What could be improved?
 
-A general framework for completing these tasks will be provided during the course.
+Each group is expected to produce a written handout on their findings to
+distribute in the class. The handout can be in note form.
 
 ### Papers
 
