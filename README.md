@@ -35,17 +35,17 @@ There are sixteen weekly sessions of an hour and a half.
 
 * 22/09: Introduction, practicalities, planning.
 * 29/09: Paper 1
-* 06/10: Paper 2
-* 13/10: Paper 3
+* 06/10: Paper 1
+* 13/10: Paper 2
 * 20/10: Guest speaker (TBC)
-* 27/10: Paper 4
-* 03/11: Paper 5
-* 10/11: Paper 6
-* 17/11: Paper 7
+* 27/10: Paper 2
+* 03/11: Paper 3
+* 10/11: Paper 3
+* 17/11: Paper 4
 * 24/11: Guest speaker (TBC)
-* 01/12: Paper 8
-* 15/12: Paper 9
-* 22/12: Paper 10
+* 01/12: Paper 4
+* 15/12: Paper 5
+* 22/12: Paper 5
 
 ### Outline
 
