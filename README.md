@@ -34,18 +34,18 @@ natural strengths.
 There are sixteen weekly sessions of an hour and a half.
 
 * 22/09: Introduction, practicalities, planning.
-* 29/09: Paper 1
-* 06/10: Paper 1
-* 13/10: Paper 2
-* 20/10: Guest speaker (TBC)
-* 27/10: Paper 2
-* 03/11: Paper 3
-* 10/11: Paper 3
-* 17/11: Paper 4
-* 24/11: Guest speaker (TBC)
-* 01/12: Paper 4
-* 15/12: Paper 5
-* 22/12: Paper 5
+* 29/09: Group discussion
+* 06/10: Group discussion
+* 13/10: Group discussion
+* 20/10: Guest speaker + Group discussion (TBC)
+* 27/10: Group discussion
+* 03/11: Group discussion
+* 10/11: Group discussion
+* 17/11: Guest speaker + Group disussion (TBC)
+* 24/11: Group discussion
+* 01/12: Group discussion
+* 15/12: Guest speaker + Group discussion (TBC)
+* 22/12: Group discussion
 
 ### Outline
 
@@ -55,17 +55,19 @@ assigned roles with specific deeper responsibilities.
 
 The students will be divided into five groups with different responsibilities:
 
-* *The Historians*. Understand the historical context of the paper; prior
-  works, the authors biography, or the general technological/political/cultural
-  context of the time.
-* *The Technicians*. Will be responsible for reading the paper with care and
-  producing a summary presentation and report of the main results.
+* [The Historians]({{ site.baseurl }}{% link roles/historians.md }). Understand
+  the historical context of the paper; prior works, the authors biography, or
+  the general technological/political/cultural context of the time.
+* [The Technicians]({{ site.baseurl }}{% link roles/technicians.md }). Will be
+  responsible for reading the paper with care and producing a summary
+  presentation and report of the main results.
 * [The Experimentalists]({{ site.baseurl }}{% link roles/experimentalists.md
   %}). If appropriate, will re-produce some of the results from the paper in a
   simple dynamic programming language, e.g. Python or MATLAB.
-* *The Futurists*. Understand the impact of the paper in future academic
-  research and in an industrial context. Discover how the presentation of
-  the key ideas of the paper has evolved in e.g. modern textbooks.
+* [The Futurists]({{ site.baseurl }}{% link roles/futurists.md }). Understand
+  the impact of the paper in future academic research and in an industrial
+  context. Discover how the presentation of the key ideas of the paper has
+  evolved in e.g. modern textbooks.
 * [Critics]({{ site.baseurl }}{% link roles/critics.md %}). Will ‘critique’ the
   article in a constructive way, e.g. What was clear? What was not clear? Is
   the information laid out in a good order?  Are there any omissions?  Are the

@@ -1,12 +1,15 @@
 ## Experimentalists
 
-You can re-produce some of the results from the paper using a simple
-dynamic programming language.
+You can re-produce some of the results from the paper using a simple dynamic
+programming language. If the algorithm is particularly complex, do perform some
+experiments/tests using an existing version and remember to cite appropriately.
+
+Below is a very basic implementation of the conjugate gradient method in
+Python.
 
 ```python
 import numpy as np
 
-# NOTE: This code is not particularly 'good'. Can you make some improvements?
 def conjugate_gradient(A, b, x_0):
     """
     A function to solve the linear system A x = b using the unpreconditioned
