@@ -62,7 +62,7 @@ The students will be divided into five groups with different responsibilities:
   responsible for reading the paper with care and producing a summary
   presentation and report of the main results.
 * [The Experimentalists]({{ site.baseurl }}{% link roles/experimentalists.md
-  %}). If appropriate, will re-produce some of the results from the paper in a
+  }). If appropriate, will re-produce some of the results from the paper in a
   simple dynamic programming language, e.g. Python or MATLAB.
 * [The Futurists]({{ site.baseurl }}{% link roles/futurists.md }). Understand
   the impact of the paper in future academic research and in an industrial
