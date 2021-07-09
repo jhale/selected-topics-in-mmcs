@@ -55,6 +55,9 @@ assigned roles with specific deeper responsibilities.
 
 The students will be divided into five groups with different responsibilities:
 
+* [The Historians]({{ site.baseurl }}{% link roles/historians.md %}). Understand
+  the historical context of the paper; prior works, the authors biography, or
+  the general technological/political/cultural context of the time.
 
 Each group is expected to produce a written handout on their findings to
 distribute in the class. The handout can be in note form.
