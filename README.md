@@ -55,23 +55,6 @@ assigned roles with specific deeper responsibilities.
 
 The students will be divided into five groups with different responsibilities:
 
-* [The Historians]({{ site.baseurl }}{% link roles/historians.md %}). Understand
-  the historical context of the paper; prior works, the authors biography, or
-  the general technological/political/cultural context of the time.
-* [The Technicians]({{ site.baseurl }}{% link roles/technicians.md %}). Will be
-  responsible for reading the paper with care and producing a summary
-  presentation and report of the main results.
-* [The Experimentalists]({{ site.baseurl }}{% link roles/experimentalists.md %
-  }). If appropriate, will re-produce some of the results from the paper in a
-  simple dynamic programming language, e.g. Python or MATLAB.
-* [The Futurists]({{ site.baseurl }}{% link roles/futurists.md %}). Understand
-  the impact of the paper in future academic research and in an industrial
-  context. Discover how the presentation of the key ideas of the paper has
-  evolved in e.g. modern textbooks.
-* [Critics]({{ site.baseurl }}{% link roles/critics.md %}). Will ‘critique’ the
-  article in a constructive way, e.g. What was clear? What was not clear? Is
-  the information laid out in a good order?  Are there any omissions?  Are the
-  arguments strong? What could be improved?
 
 Each group is expected to produce a written handout on their findings to
 distribute in the class. The handout can be in note form.
