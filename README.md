@@ -1,12 +1,12 @@
-# Selected Topics in Industrial Mathematics
-## Winter Semester 2021/2022, Masters in Industrial Mathematics
+# Selected Topics in Industrial Mathematics 1
+## Winter Semester 2022/2023, Masters in Industrial Mathematics
 
 ### Practicalities
 
-Instructor: Jack S. Hale (jack.hale@uni.lu). Office hours: 1500-1600 Wednesdays.
+Instructor: Jack S. Hale (jack.hale@uni.lu). Office hours: 1000-1100 Wednesdays.
 
-Weekly starting Wednesday 22nd September 2022 until 22nd December inclusive.
-Belval Campus Maison du Nombre 1.020, 1130 to 1300.
+Weekly starting Wednesday 21st September 2022 until 22nd December inclusive.
+Belval Campus Maison du Savoir (various rooms, see schedule), 1400 to 1530.
 
 ### Description
 
@@ -31,21 +31,22 @@ natural strengths.
 
 ### Schedule
 
-There are sixteen weekly sessions of an hour and a half.
+There are fourteen weekly sessions of an hour and a half.
 
-* 22/09: Introduction, practicalities, planning.
-* 29/09: Group discussion
-* 06/10: Group discussion
-* 13/10: Group discussion
-* 20/10: Guest speaker + Group discussion (TBC)
-* 27/10: Group discussion
-* 03/11: Group discussion
-* 10/11: Group discussion
-* 17/11: Guest speaker + Group disussion (TBC)
-* 24/11: Group discussion
-* 01/12: Group discussion
-* 15/12: Guest speaker + Group discussion (TBC)
-* 22/12: Group discussion
+* 21/09: Introduction, practicalities, planning. MSA 3.220
+* 28/09: Group discussion. MSA 3.190.
+* 05/10: Group discussion. MSA 2.220.
+* 12/10: Group discussion. MSA 3.220.
+* 19/10: Guest speaker + Group discussion (TBC). MSA 3.230.
+* 26/10: Group discussion. MSA 3.070.
+* 02/11: Group discussion. MSA 3.230.
+* 09/11: Group discussion. MSA 3.160.
+* 16/11: Guest speaker + Group disussion (TBC). MSA 3.220.
+* 23/11: Group discussion. MSA 3.200.
+* 30/11: Group discussion. MSA 3.230.
+* 07/12: Group discussion. MSA 3.200.
+* 14/12: Guest speaker + Group discussion (TBC). MSA 3.200.
+* 21/12: Group discussion. MSA 3.200.
 
 ### Outline
 
@@ -86,4 +87,4 @@ Suggestions from the students are of course welcome!
 
 Ideas of Nick Trefethen on running an effective mathematics seminar series
 (https://web.stanford.edu/class/cme324/classics/). Contributions to the paper
-list made by Francesco Viti, Stéphane Bordas, Ivan Nourdin and Xavier Besseron.
+list made by Francesco Viti, Stéphane P. A. Bordas, Ivan Nourdin and Xavier Besseron.
