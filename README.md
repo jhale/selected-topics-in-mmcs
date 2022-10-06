@@ -20,14 +20,23 @@ framework outlined below.
 
 ### Assessment
 
-Students will be graded with a reasonable passing grade given satisfactory
-participation and engagement in the class. Students who are not contributing
-will be given feedback in private during the course so that they can make
-efforts to improve. Those that make an effort beyond the norm will receive
-higher grades.
+Students will be assessed on the following pieces of coursework. There is no
+examination.
 
-The range of roles mean that there should be something to suit everyone's
-natural strengths.
+The deadline for the report is 9th December 2022 at 1700. The report should be
+submitted as a PDF via email.
+
+The presentation will be given on 14th December 2022 at 0930. Further
+organisational details will be given nearer the time.
+
+1. A written report of approximately ten A4 pages that touches equally on the
+   five roles detailed below. The report should be prepared using LaTeX.
+
+2. Supporting code examples should be uploaded to a GitHub repository and 
+   linked to in the report.
+
+3. A presentation of 25 minutes plus a question and answer session that covers
+   the main points made in the report.
 
 ### Schedule
 
@@ -73,9 +82,6 @@ The students will be divided into five groups with different responsibilities:
   article in a constructive way, e.g. What was clear? What was not clear? Is
   the information laid out in a good order?  Are there any omissions?  Are the
   arguments strong? What could be improved?
-
-Each group is expected to produce a written handout on their findings to
-distribute in the class. The handout can be in note form.
 
 ### Papers
 
