@@ -1,30 +1,34 @@
 # Selected Topics in Industrial Mathematics 1
-## Winter Semester 2022/2023, Masters in Industrial Mathematics
+## Winter Semester 2023/2024, Masters in Industrial Mathematics
 
 ### Practicalities
 
 Instructor: Jack S. Hale (jack.hale@uni.lu). Office hours: 1000-1100 Wednesdays.
 
-Weekly starting Wednesday 21st September 2022 until 22nd December inclusive.
-Belval Campus Maison du Savoir (various rooms, see schedule), 1400 to 1530.
+Weekly starting Wednesday 20th September 2023 until 20th December inclusive.
+Excluding 1st November due to public holiday.
+Belval Campus Maison du Nombre 1.040, 1400 to 1530.
 
 ### Description
 
-In this seminar series we will discover some classic papers that have had
-a huge impact on the field of Industrial Mathematics. As well as understanding
-the technical content of the papers, you will be encouraged to form a broader
-view of the history of the field, to understand the context of these important
-developments, and to see how those advances have influenced modern industrial
-practice. The course and its content will be student-led following the
-framework outlined below.
+In this seminar series we will discover together some classic papers that have
+had a huge impact on the field of Industrial Mathematics. As well as
+understanding the technical content of the papers, you will be encouraged to
+form a broader view of the history of the field, to understand the context of
+these important developments, and to see how those advances have influenced
+modern industrial practice. The course and its content will be student-led
+following the framework outlined below.
 
 ### Assessment
+
+Due to the collaborative nature of the course, attendance is mandatory. Excuses
+must be made via email in advance of the session.
 
 Students will be assessed on the following pieces of coursework. There is no
 examination.
 
-The deadline for the report is 9th December 2022 at 1700. The report should be
-submitted as a PDF via email.
+The deadline for the report and code is 8th December 2022 at 1700. The report
+should be submitted as a PDF and GitHub link via email.
 
 The presentation will be given on 14th December 2022 at 0930. Further
 organisational details will be given nearer the time.
@@ -38,24 +42,25 @@ organisational details will be given nearer the time.
 3. A presentation of 25 minutes plus a question and answer session that covers
    the main points made in the report.
 
+
 ### Schedule
 
-There are fourteen weekly sessions of an hour and a half.
+There are fourteen weekly sessions of an hour and a half in *MNO 1.040*.
 
-* 21/09: Introduction, practicalities, planning. MSA 3.220
-* 28/09: Group discussion. MSA 3.190.
-* 05/10: Group discussion. MSA 2.220.
-* 12/10: Group discussion. MSA 3.220.
-* 19/10: Guest speaker + Group discussion (TBC). MSA 3.230.
-* 26/10: Group discussion. MSA 3.070.
-* 02/11: Group discussion. MSA 3.230.
-* 09/11: Group discussion. MSA 3.160.
-* 16/11: Guest speaker + Group disussion (TBC). MSA 3.220.
-* 23/11: Group discussion. MSA 3.200.
-* 30/11: Group discussion. MSA 3.230.
-* 07/12: Group discussion. MSA 3.200.
-* 14/12: Guest speaker + Group discussion (TBC). MSA 3.200.
-* 21/12: Group discussion. MSA 3.200.
+* 20/09: Introduction, practicalities, planning.
+* 27/09: Group discussion.
+* 04/10: Group discussion. 
+* 11/10: Group discussion.
+* 18/10: Guest speaker + Group discussion (TBC).
+* 25/10: Group discussion.
+* 01/11: Holiday.
+* 08/11: Group discussion.
+* 15/11: Guest speaker + Group disussion (TBC).
+* 22/11: Group discussion.
+* 29/11: Group discussion.
+* 06/12: Group discussion.
+* 13/12: Guest speaker + Group discussion (TBC).
+* 20/12: Group discussion.
 
 ### Outline
 
