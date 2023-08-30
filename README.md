@@ -27,11 +27,10 @@ must be made via email in advance of the session.
 Students will be assessed on the following pieces of coursework. There is no
 examination.
 
-The deadline for the report and code is 8th December 2022 at 1700. The report
+The deadline for the report and code is 8th December 2023 at 1700. The report
 should be submitted as a PDF and GitHub link via email.
 
-The presentation will be given on 14th December 2022 at 0930. Further
-organisational details will be given nearer the time.
+Further organisational details about the presentation will be given nearer the time.
 
 1. A written report of approximately ten A4 pages that touches equally on the
    five roles detailed below. The report should be prepared using LaTeX.
@@ -45,7 +44,7 @@ organisational details will be given nearer the time.
 
 ### Schedule
 
-There are fourteen weekly sessions of an hour and a half in *MNO 1.040*.
+There are thirteen weekly sessions of an hour and a half in *MNO 1.040*.
 
 * 20/09: Introduction, practicalities, planning.
 * 27/09: Group discussion.
