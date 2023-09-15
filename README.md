@@ -53,8 +53,8 @@ There are thirteen weekly sessions of an hour and a half in *MNO 1.040*.
 * 27/09: Group discussion.
 * 04/10: Group discussion. 
 * 11/10: Group discussion.
-* 18/10: Guest speaker + Group discussion (TBC).
-* 25/10: Group discussion.
+* 18/10: Group discussion.
+* 25/10: Guest speaker Mike Talbot (Arcelor Mittal Steligence® Engineering).
 * 01/11: Holiday.
 * 08/11: Group discussion.
 * 15/11: Guest speaker + Group disussion (TBC).
