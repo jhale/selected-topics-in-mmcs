@@ -3,7 +3,10 @@
 
 ### Practicalities
 
-Instructor: Jack S. Hale (jack.hale@uni.lu). Office hours: 1000-1100 Wednesdays.
+Instructor: Jack S. Hale ([jack.hale@uni.lu](mailto:jack.hale@uni.lu)).
+Office hours: 1000-1100 Wednesdays, drop-in.
+
+#### Dates
 
 Weekly starting Wednesday 20th September 2023 until 20th December inclusive.
 Excluding 1st November due to public holiday.
@@ -11,15 +14,15 @@ Belval Campus Maison du Nombre 1.040, 1400 to 1530.
 
 ### Description
 
-In this seminar series we will discover together some classic papers that have
-had a huge impact on the field of Industrial Mathematics. As well as
-understanding the technical content of the papers, you will be encouraged to
-form a broader view of the history of the field, to understand the context of
-these important developments, and to see how those advances have influenced
-modern industrial practice. The course and its content will be student-led
-following the framework outlined below.
+In this seminar series we will discover some classic papers that have had a
+huge impact on the field of Industrial Mathematics. As well as understanding
+the technical content of the papers, you will be encouraged to form a broader
+view of the history of the field, to understand the context of these important
+developments, and to see how those advances have influenced modern industrial
+practice. The course and its content will be student-led following the
+framework outlined below.
 
-### Assessment
+### Assessment (draft)
 
 Due to the collaborative nature of the course, attendance is mandatory. Excuses
 must be made via email in advance of the session.
