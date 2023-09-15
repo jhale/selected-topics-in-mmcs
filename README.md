@@ -24,8 +24,9 @@ framework outlined below.
 
 ### Assessment (draft)
 
-Due to the collaborative nature of the course, attendance is mandatory. Excuses
-must be made via email in advance of the session.
+Due to the collaborative nature of the course, attendance is mandatory
+according to the UL Study Regulations. Excuses must be made via email in
+advance of the session.
 
 Students will be assessed on the following pieces of coursework. There is no
 examination.
