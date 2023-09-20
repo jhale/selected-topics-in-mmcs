@@ -29,13 +29,14 @@ according to the UL Study Regulations. Excuses must be made via email in
 advance of the session.
 
 Each student will select a paper. They will be the project leader for their
-chosen paper. Every student is expected to contribute fully to delivering the
-coursework for each paper, following the directions of the project leader.
+chosen paper. Every student is expected to contribute fully to delivering on
+the coursework for each paper, following the overall directions of the project
+leader.
 
-My expectation is that students will participate fully in the course and
-produce high quality work, and so will receive a good mark. If you are not
-meeting expectations, I will contact you via email during the course. If the
-issue does not improve, I will deduct marks!
+My expectation is that all students will collaborate fully on the course and
+produce high quality work. If you are not meeting expectations, I will contact
+you via email during the course. If the issue does not improve, I will deduct
+marks on an individual basis.
 
 Students will be jointly assessed on the following pieces of coursework. There
 is no examination.
