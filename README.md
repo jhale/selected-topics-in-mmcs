@@ -22,29 +22,38 @@ developments, and to see how those advances have influenced modern industrial
 practice. The course and its content will be student-led following the
 framework outlined below.
 
-### Assessment (draft)
+### Assessment
 
 Due to the collaborative nature of the course, attendance is mandatory
 according to the UL Study Regulations. Excuses must be made via email in
 advance of the session.
 
-Students will be assessed on the following pieces of coursework. There is no
-examination.
+Each student will select a paper. They will be the project leader for their
+chosen paper. Every student is expected to contribute fully to delivering the
+coursework for each paper, following the directions of the project leader.
 
-The deadline for the report and code is 8th December 2023 at 1700. The report
-should be submitted as a PDF and GitHub link via email.
+My expectation is that students will participate fully in the course and
+produce high quality work, and so will receive a good mark. If you are not
+meeting expectations, I will contact you via email during the course. If the
+issue does not improve, I will deduct marks!
 
-Further organisational details about the presentation will be given nearer the time.
+Students will be jointly assessed on the following pieces of coursework. There
+is no examination.
+
+The reports should consist of:
 
 1. A written report of approximately ten A4 pages that touches equally on the
    five roles detailed below. The report should be prepared using LaTeX.
 
 2. Supporting code examples should be uploaded to a GitHub repository and 
-   linked to in the report.
+   results placed directly in the report.
 
-3. A presentation of 25 minutes plus a question and answer session that covers
-   the main points made in the report.
+3. Joint presentation of 25 minutes plus a question and answer session.
 
+The reports should be submitted by the project lead as a PDF and, if
+applicable, a GitHub link via email by 1700 on the date shown in the schedule
+below. Please cc: in the whole class. The associated presentation will take
+place on the same day during class.
 
 ### Schedule
 
@@ -54,24 +63,21 @@ There are thirteen weekly sessions of an hour and a half in *MNO 1.040*.
 * 27/09: Group discussion.
 * 04/10: Group discussion. 
 * 11/10: Group discussion.
-* 18/10: Group discussion.
+* 18/10: Report and presentation 1 due.
 * 25/10: Guest speaker Mike Talbot (Arcelor Mittal Steligence® Engineering).
 * 01/11: Holiday.
 * 08/11: Group discussion.
-* 15/11: Guest speaker + Group disussion (TBC).
+* 15/11: Guest speaker (TBC).
 * 22/11: Group discussion.
-* 29/11: Group discussion.
+* 29/11: Report and presentation 2 due.
 * 06/12: Group discussion.
-* 13/12: Guest speaker + Group discussion (TBC).
-* 20/12: Group discussion.
+* 13/12: Group discussion.
+* 20/12: Report and presentation 3 due.
 
 ### Outline
 
-Assuming enough time, each student should be able to pick one paper. All students
-will be expected to read each paper. For each paper, some students will be
-assigned roles with specific deeper responsibilities.
-
-The students will be divided into five groups with different responsibilities:
+The following roles provide suggestions for the content and structure of the
+report and presentation:
 
 * [The Historians]({{ site.baseurl }}{% link roles/historians.md %}). Understand
   the historical context of the paper; prior works, the authors biography, or
@@ -93,7 +99,7 @@ The students will be divided into five groups with different responsibilities:
 
 ### Papers
 
-Suggestions from the students are of course welcome!
+Suggestions from the students are welcome!
 
 {% include_relative papers.html %}
 
