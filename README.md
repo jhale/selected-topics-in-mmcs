@@ -10,7 +10,7 @@ Office hours: 1000-1100 Wednesdays, drop-in.
 
 Weekly starting Wednesday 20th September 2023 until 20th December inclusive.
 Excluding 1st November due to public holiday.
-Belval Campus Maison du Nombre 1.040, 1400 to 1530.
+Belval Campus Maison du Nombre 1.020, 1400 to 1530.
 
 ### Description
 
@@ -68,12 +68,13 @@ There are thirteen weekly sessions of an hour and a half in *MNO 1.040*.
 * 25/10: Guest speaker Mike Talbot (Arcelor Mittal Steligence® Engineering).
 * 01/11: Holiday.
 * 08/11: Group discussion.
-* 15/11: Guest speaker (TBC).
+* 15/11: Guest speaker (TBC - postponed).
 * 22/11: Group discussion.
 * 29/11: Report and presentation 2 due.
 * 06/12: Group discussion.
 * 13/12: Group discussion.
-* 20/12: Report and presentation 3 due.
+* 20/12: Presentation 3 due.
+* 22/12: Report 3 due.
 
 ### Outline
 
