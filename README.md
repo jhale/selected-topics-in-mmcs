@@ -71,7 +71,7 @@ There are thirteen weekly sessions of an hour and a half in *MNO 1.040*.
 * 15/11: Group discussion.
 * 22/11: Group discussion.
 * 29/11: Report and presentation 2 due.
-* 06/12: Group discussion.
+* 06/12: Group discussion + Course feedback.
 * 13/12: Guest speaker Johannes Neumann ([Rafinex Sarl](https://rafinex.com)).
 * 20/12: Presentation 3 due.
 * 22/12: Report 3 due.
