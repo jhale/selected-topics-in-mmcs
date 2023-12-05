@@ -68,11 +68,11 @@ There are thirteen weekly sessions of an hour and a half in *MNO 1.040*.
 * 25/10: Guest speaker Mike Talbot (Arcelor Mittal Steligence® Engineering).
 * 01/11: Holiday.
 * 08/11: Group discussion.
-* 15/11: Guest speaker (TBC - postponed).
+* 15/11: Group discussion.
 * 22/11: Group discussion.
 * 29/11: Report and presentation 2 due.
 * 06/12: Group discussion.
-* 13/12: Group discussion.
+* 13/12: Guest speaker Johannes Neumann ([Rafinex Sarl](https://rafinex.com)).
 * 20/12: Presentation 3 due.
 * 22/12: Report 3 due.
 
