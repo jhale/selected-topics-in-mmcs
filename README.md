@@ -1,5 +1,5 @@
-# Selected Topics in Industrial Mathematics 1
-## Winter Semester 2023/2024, Masters in Industrial Mathematics
+# Selected Topics in Mathematical Modelling and Computatioanl Sciences 1
+## Winter Semester 2023/2024, Masters in Methematics, MMCS Track
 
 ### Practicalities
 
