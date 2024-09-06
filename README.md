@@ -1,16 +1,14 @@
-# Selected Topics in Mathematical Modelling and Computatioanl Sciences 1
-## Winter Semester 2023/2024, Masters in Methematics, MMCS Track
+# Selected Topics in Mathematical Modelling and Computational Sciences 1
+## Winter Semester 2024/2025
+## Masters in Methematics
 
 ### Practicalities
 
 Instructor: Jack S. Hale ([jack.hale@uni.lu](mailto:jack.hale@uni.lu)).
-Office hours: 1000-1100 Wednesdays, drop-in.
 
 #### Dates
 
-Weekly starting Wednesday 20th September 2023 until 20th December inclusive.
-Excluding 1st November due to public holiday.
-Belval Campus Maison du Nombre 1.020, 1400 to 1530.
+Please see the [ACME](https://acme.uni.lu) system.
 
 ### Description
 
@@ -22,11 +20,13 @@ developments, and to see how those advances have influenced modern industrial
 practice. The course and its content will be student-led following the
 framework outlined below.
 
-### Assessment
+#### Teaching units
 
-Due to the collaborative nature of the course, attendance is mandatory
-according to the UL Study Regulations. Excuses must be made via email in
-advance of the session.
+Following the rules set out by the Vice Rectorate for Academic Affairs the
+course will be taught as a continuous block of 2 TUs of 45 minutes beginning
+15 minutes after the scheduled start in the ACME system.
+
+### Assessment
 
 Each student will select a paper. They will be the project leader for their
 chosen paper. Every student is expected to contribute fully to delivering on
@@ -49,32 +49,41 @@ The reports should consist of:
 2. Supporting code examples should be uploaded to a GitHub repository and 
    results placed directly in the report.
 
-3. Joint presentation of 25 minutes plus a question and answer session.
+3. Joint presentation of 25 minutes plus a question and answer session as shown
+   in the schedule.
 
 The reports should be submitted by the project lead as a PDF and, if
 applicable, a GitHub link via email by 1700 on the date shown in the schedule
-below. Please cc: in the whole class. The associated presentation will take
-place on the same day during class.
+below. Please cc: the whole class.
+
+#### Attendance policy
+
+This is a practical course and attendance is mandatory. A maximum of 2 TU can
+be missed across the semester. Further TUs missed will require a meeting with
+the instructor and study programme director.
+
+#### Retake policy
+
+There is no retake possible - register for the course again at the next
+available semester.
 
 ### Schedule
 
-There are thirteen weekly sessions of an hour and a half in *MNO 1.040*.
-
-* 20/09: Introduction, practicalities, planning.
-* 27/09: Group discussion.
-* 04/10: Group discussion. 
-* 11/10: Group discussion.
-* 18/10: Report and presentation 1 due.
-* 25/10: Guest speaker Mike Talbot (Arcelor Mittal Steligence® Engineering).
-* 01/11: Holiday.
-* 08/11: Group discussion.
-* 15/11: Group discussion.
-* 22/11: Group discussion.
-* 29/11: Report and presentation 2 due.
-* 06/12: Group discussion + Course feedback.
-* 13/12: Guest speaker Johannes Neumann ([Rafinex Sarl](https://rafinex.com)).
-* 20/12: Presentation 3 due.
-* 22/12: Report 3 due.
+* 17/09: Introduction, practicalities, planning.
+* 24/09: Group discussion.
+* 1/10: Group discussion. 
+* 8/10: Group discussion.
+* 15/10: Report and presentation 1 due.
+* 22/10: Guest speaker (TBC).
+* 29/11: Group discussion.
+* 5/11: Group discussion.
+* 12/11: Group discussion.
+* 19/11: Group discussion.
+* 26/11: Report and presentation 2 due.
+* 03/12: Group discussion + Course feedback.
+* 10/12: Guest speaker (TBC).
+* 17/12: Presentation 3 due.
+* 20/12: Report 3 due.
 
 ### Outline
 
