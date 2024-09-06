@@ -10,6 +10,12 @@ Instructor: Jack S. Hale ([jack.hale@uni.lu](mailto:jack.hale@uni.lu)).
 
 Please see the [ACME](https://acme.uni.lu) system.
 
+#### Teaching units
+
+Following the rules set out by the Vice Rectorate for Academic Affairs the
+course will be taught as a continuous block of 2 TUs of 45 minutes beginning
+15 minutes after the scheduled start in the ACME system.
+
 ### Description
 
 In this seminar series we will discover some classic papers that have had a
@@ -19,12 +25,6 @@ view of the history of the field, to understand the context of these important
 developments, and to see how those advances have influenced modern industrial
 practice. The course and its content will be student-led following the
 framework outlined below.
-
-#### Teaching units
-
-Following the rules set out by the Vice Rectorate for Academic Affairs the
-course will be taught as a continuous block of 2 TUs of 45 minutes beginning
-15 minutes after the scheduled start in the ACME system.
 
 ### Assessment
 
