@@ -1,6 +1,6 @@
 # Selected Topics in Mathematical Modelling and Computational Sciences 1
 ## Winter Semester 2024/2025
-## Masters in Mathematics
+## Master in Mathematics
 
 ### Practicalities
 
