@@ -19,12 +19,12 @@ course will be taught as a continuous block of 2 TUs of 45 minutes beginning
 ### Description
 
 In this seminar series we will discover some classic papers that have had a
-huge impact on the field of Industrial Mathematics. As well as understanding
-the technical content of the papers, you will be encouraged to form a broader
-view of the history of the field, to understand the context of these important
-developments, and to see how those advances have influenced modern industrial
-practice. The course and its content will be student-led following the
-framework outlined below.
+huge impact on the field of Computational Sciences and Mathematical Modelling.
+As well as understanding the technical content of the papers, you will be
+encouraged to form a broader view of the history of the field, to understand
+the context of these important developments, and to see how those advances have
+influenced modern industrial practice. The course and its content will be
+student-led following the framework outlined below.
 
 ### Assessment
 
