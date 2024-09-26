@@ -73,15 +73,15 @@ available semester.
 * 24/09: Group discussion.
 * 1/10: Group discussion. 
 * 8/10: Group discussion.
-* 15/10: Report and presentation 1 due.
-* 22/10: Guest speaker (TBC).
+* 15/10: Group discussion.
+* 22/10: Report and presentation 1 due.
 * 29/11: Group discussion.
 * 5/11: Group discussion.
 * 12/11: Group discussion.
 * 19/11: Group discussion.
 * 26/11: Report and presentation 2 due.
-* 03/12: Group discussion + Course feedback.
-* 10/12: Guest speaker (TBC).
+* 03/12: Group discussion.
+* 10/12: Group discussion.
 * 17/12: Presentation 3 due.
 * 20/12: Report 3 due.
 
