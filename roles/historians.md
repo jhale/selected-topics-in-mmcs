@@ -10,7 +10,6 @@ These are suggestions for points that you could address:
   that may have influenced the paper?
 * Who were the authors? Can you find out anything interesting about their
   personal or professional lives?
-* Plot bibiometric information about the paper (e.g. citation count).
 * Were there any competing methodologies that did not gain traction long-term?
   Why?
 
