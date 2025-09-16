@@ -1,5 +1,5 @@
 # Selected Topics in Mathematical Modelling and Computational Sciences 1
-## Winter Semester 2024/2025
+## Winter Semester 2025/2026
 ## Master in Mathematics
 
 ### Practicalities
@@ -69,21 +69,20 @@ available semester.
 
 ### Schedule
 
-* 17/09: Introduction, practicalities, planning.
+* 16/09: Introduction, practicalities, planning.
 * 24/09: Group discussion.
 * 1/10: Group discussion. 
-* 8/10: Group discussion.
-* 15/10: Group discussion.
-* 22/10: Report and presentation 1 due.
-* 29/11: Group discussion.
-* 5/11: Group discussion.
-* 12/11: Group discussion.
-* 19/11: Group discussion.
-* 26/11: Report and presentation 2 due.
-* 03/12: Group discussion.
-* 10/12: Group discussion.
-* 17/12: Presentation 3 due.
-* 20/12: Report 3 due.
+* 8/10: Report and presentation 1 due.
+* 13/10: Group discussion.
+* 20/10: Group discussion.
+* 27/11: Report and presentation 2 due.
+* 3/11: Group discussion.
+* 10/11: Group discussion.
+* 17/11: Report and presentation 3 due.
+* 24/11: Group discussion.
+* 1/12: Group discussion.
+* 8/12: Group discussion.
+* 15/12: Report and presentation 4 due.
 
 ### Outline
 
