@@ -78,8 +78,9 @@ available semester.
 * 27/11: Report and presentation 2 due.
 * 3/11: Group discussion.
 * 10/11: Group discussion.
-* 17/11: Report and presentation 3 due.
-* 24/11: Group discussion.
+* 17/11: Group discussion.
+* 22/11: Report 3 due.
+* 24/11: Presentation 3 and group discussion.
 * 1/12: Group discussion.
 * 8/12: Group discussion.
 * 15/12: Report and presentation 4 due.
