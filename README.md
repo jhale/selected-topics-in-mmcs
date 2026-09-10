@@ -64,12 +64,13 @@ available semester.
 ### Schedule
 
 * 18/09: Introduction, practicalities, planning.
+* 23/09: Group discussion.
 * 1/10: Group discussion.
-* 8/10: Group discussion.
-* 15/10: Report and presentation 1 due.
+* 8/10: Report and presentation 1 due.
+* 15/10: Group discussion.
 * 22/10: Group discussion.
-* 29/10: Group discussion.
-* 5/11: Report and presentation 2 due.
+* 29/10: Report and presentation 2 due.
+* 5/11: Group discussion.
 * 12/11: Group discussion.
 * 19/11: Group discussion.
 * 24/11: Report 3 due.
